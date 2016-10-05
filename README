@@ -1,0 +1,2 @@
+
+Using C, implemented a simple shell that supports running executables and built-in command such as exit, cd, pwd, path, history, and etc.
